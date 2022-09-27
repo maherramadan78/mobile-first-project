@@ -1,9 +1,5 @@
 # mobile-first-project
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-
-> first mobile porffolio website 
 
 ## html and styles css
 
