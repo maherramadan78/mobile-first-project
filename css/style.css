@@ -81,9 +81,8 @@ li {
 
 .line1 {
   height: 0;
-  width: 327px;
-  left: 0;
-  top: 9px;
+  width: 100%;
+  margin: auto auto;
   border-radius: 10px;
   padding: 40px;
   margin: auto;
@@ -226,17 +225,6 @@ li {
   align-items: left;
   margin: auto 0;
   padding: 0 20px 20px 0;
-}
-
-.line2 {
-  height: 0;
-  width: 327px;
-  left: 0;
-  top: 9px;
-  border-radius: 10px;
-  padding: 40px;
-  margin: auto;
-  overflow: hidden;
 }
 
 .socialmedia {
