@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-#  Microverse' Hello Project
+#  Microverse'mobile-first-project
 
 > This project is my first project at Microverse and it aims at making me understand the Github flow, proper documentation of project professionally, adding a .gitignore file, setting up linters for html and css, and even proper way of adding a README file.
 
